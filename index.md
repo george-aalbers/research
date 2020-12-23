@@ -1,3 +1,3 @@
 # Work in progress...
 
-I plan to post my research here. Please ignore for now! ^_^
+I plan to post my research here. Please ignore for now!
