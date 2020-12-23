@@ -1,9 +1,9 @@
 theme: minima
-title: George Aalbers, PhD researcher at Tilburg University
+title: George Aalbers
 author: George Aalbers
 email: h.j.g.aalbers@uvt.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Machine learning and time-series statistical analysis research by George Aalbers.
+  Machine learning and time-series statistical analysis applied to psychological and technological data.
 
 # social links
 twitter_username: GeorgeAalbers # DO NOT include the @ character, or else the build will fail!
