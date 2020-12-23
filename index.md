@@ -1,3 +1,3 @@
-# Thanks for stopping by!
+# Work in progress...
 
-I'm glad you are here. I plan to post my research here.
+I plan to post my research here. Please ignore for now ^_^
